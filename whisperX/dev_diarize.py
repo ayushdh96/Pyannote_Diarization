@@ -28,8 +28,15 @@ print(result["segments"])
 
 # ------------------- Step 3: Diarization -------------------
 from whisperx.diarize import DiarizationPipeline  # ✅ Use this import on latest versions
+from dotenv import load_dotenv
+import os
 
-hf_token = ""
+# Load .env variables
+load_dotenv()
+
+# Access the token
+hf_token = os.getenv("HF_TOKEN")
+
 diarize_model = DiarizationPipeline(use_auth_token=hf_token, device=device)
 
 diarize_segments = diarize_model(audio)
