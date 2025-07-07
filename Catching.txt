@@ -1,0 +1,17 @@
+[SPEAKER_01]: Jane?
+[SPEAKER_00]: Mark?
+[SPEAKER_00]: Hi!
+[SPEAKER_00]: It's been ages since I last saw you.
+[SPEAKER_00]: How are you and Jackie?
+[SPEAKER_01]: Yeah, good thanks.
+[SPEAKER_00]: And your new baby, George, isn't it?
+[SPEAKER_01]: You've got a good memory.
+[SPEAKER_01]: Yes, he's two now.
+[SPEAKER_01]: What about you?
+[SPEAKER_01]: Are you still working in the health centre?
+[SPEAKER_00]: Yes, for the time being, but we're moving in a couple of months.
+[SPEAKER_00]: Anyhow, I'd better go.
+[SPEAKER_00]: I'm late for work.
+[SPEAKER_00]: Lovely to see you again.
+[SPEAKER_01]: Yeah, likewise.
+[SPEAKER_01]: Keep in touch.
