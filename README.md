@@ -102,6 +102,12 @@ You should see output like:
 - This uses `device="cpu"` for Apple Silicon compatibility. You can try `"mps"` but alignment may fail.
 - Ensure your Hugging Face account has accepted the usage conditions for `pyannote/speaker-diarization-*`.
 
+- Additionally, visit the following Hugging Face model pages and click **"Access Repository"** to grant yourself permission to use the gated models:
+  - [pyannote/speaker-diarization-3.1](https://huggingface.co/pyannote/speaker-diarization-3.1)
+  - [pyannote/segmentation-3.0](https://huggingface.co/pyannote/segmentation-3.0)
+
+> 📌 You must be logged into your Hugging Face account and click the **"Agree and Access Repository"** button on each model page to avoid runtime download errors.
+
 ---
 
 ## 📬 Credits
