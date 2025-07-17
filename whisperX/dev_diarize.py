@@ -3,7 +3,7 @@ import gc
 import torch
 
 # ------------------- Setup -------------------
-audio_file = "Catching.mp3"  # Make sure this file exists in the same folder
+audio_file = "medical_13min.mp3"  # Make sure this file exists in the same folder
 
 # For Mac with Apple Silicon
 device = "cpu"  # You can use "mps" only if align model supports it, otherwise stick with "cpu"
